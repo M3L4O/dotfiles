@@ -1,0 +1,7 @@
+add -p ~/Música/I Really Want To Stay At Your House (80s Synthwave Remix) ♪.mp3
+pl-create melist
+rm
+add -p ~/Música/
+bind common <key> lqueue
+colorscheme dracula
+colorscheme spotify
