@@ -1,3 +1,6 @@
+add -p ~/Música/NightCore/
+pl-create NightCore
+clear
 add -p ~/Música/I Really Want To Stay At Your House (80s Synthwave Remix) ♪.mp3
 pl-create melist
 rm

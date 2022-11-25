@@ -23,7 +23,6 @@
 .config/kritarc
 .config/mgba/
 .config/mimeapps.list
-.config/neofetch/
 .config/nvim/init.lua
 .config/nvim/lua/core/
 .config/nvim/lua/plugins/
