@@ -36,6 +36,7 @@
 .config/user-dirs.dirs
 .config/user-dirs.locale
 .config/xfce4/
+.config/cmus/
 .fehbg
 .gitconfig
 .gnupg/
