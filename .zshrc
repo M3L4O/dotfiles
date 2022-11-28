@@ -84,7 +84,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
-export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:$HOME/.local/bin:$HOME/.cargo/bin"
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
@@ -110,7 +110,7 @@ export BAT_THEME="Catppuccin-mocha"
 # ------------- ALIAS ------------------ #
 alias yasuo='yasu'
 alias sudoe='sudo -E'
-
+alias cmus='cmus-rpc-rs --link &>/dev/null & cmus'
 
 # ------------ FUNCTIONS -------------- #
 mkvtomp4(){
