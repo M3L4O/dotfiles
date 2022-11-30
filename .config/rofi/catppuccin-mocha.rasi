@@ -9,7 +9,9 @@
     grey: #6c7086;
 
     width: 600;
-    font: "Fira Code 12";
+   
+    font: "Iosevka 12";
+
 }
 
 element-text, element-icon , mode-switcher {
