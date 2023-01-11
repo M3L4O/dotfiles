@@ -17,6 +17,7 @@ M.treesitter = {
     "norg",
     "tsx",
     "typescript",
+    "rasi",
   },
 }
 
@@ -99,7 +100,8 @@ M.mason = {
     -- python
     "pyright",
     "black",
-
+    -- javascript
+    "typescript-language-server",
     -- shell
     "shfmt",
     "shellcheck",
